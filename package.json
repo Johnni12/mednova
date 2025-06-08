@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@prisma/client": "^6.7.0",
+    "joi": "^17.13.3",
     "next": "15.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -20,6 +22,7 @@
     "@tailwindcss/postcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.3.0",
+    "prisma": "^6.7.0",
     "tailwindcss": "^4"
   }
 }
